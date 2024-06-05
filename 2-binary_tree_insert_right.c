@@ -28,4 +28,3 @@ parent->right = new_node;
 
 	return (new_node);
 }
-
